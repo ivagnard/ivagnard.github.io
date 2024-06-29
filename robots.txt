@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ivagnard.github.io/sitemap
+Sitemap: https://ivagnard.github.io/app/sitemap
+Sitemap: https://ivagnard.github.io/assets/sitemap
+Sitemap: https://ivagnard.github.io/css/sitemap
+Sitemap: https://ivagnard.github.io/includes/sitemap
+Sitemap: https://ivagnard.github.io/item/sitemap
+Sitemap: https://ivagnard.github.io/src/sitemap
